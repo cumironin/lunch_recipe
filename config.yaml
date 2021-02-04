@@ -1,0 +1,45 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Delicate Recipe"
+header_img: "img/hero_resep.jpg"
+
+# summarylength: 30
+
+# limit offset jumlah post di paginasi
+paginate: 10
+
+# robots.txt diaktifkan
+enableRobotsTXT: true
+
+# Dibuat untuk related post
+related:
+  threshold: 0
+  includeNewer: false
+  toLower: false
+  indices:
+  - name: category
+    weight: 100
+  # - name: date
+  #   weight: 10
+
+# ragam output keluar(bisa json, rss maupun html)
+outputs:
+  home:
+    - html
+    - rss
+    - json
+  page:
+    - html
+    - rss
+
+# Konflik dengan fuse js, harus di ubek lagi bray  
+# taxonomies:
+#   series: series
+#   category: categories
+
+# ini dipakai jika .md bisa diakses HTML (tapi tidak disarankan soale masalah security)
+# markup:
+#   defaultMarkdownHandler: "goldmark"
+#   goldmark:
+#     renderer:
+#       unsafe: true

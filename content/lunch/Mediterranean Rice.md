@@ -1,0 +1,59 @@
+---
+type: post
+title: "Mediterranean Rice"
+author: "adevine39"
+category: lunch
+photo: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2980143.jpg"
+prep_time: "P0DT0H15M"
+cook_time: "P0DT1H5M"
+recipe_yield: "8 servings"
+calories: "250.4 calories"
+date_published: 01/18/2020 11:24 PM
+description: "The subtle blend of flavors in this recipe are a great change of pace from normal American fare, but it doesn't use expensive specialty spices."
+recipe_ingredient: ['8 cups water', '2 cups wild rice', '2 tablespoons sesame oil, divided', '1 sweet onion, coarsely chopped', '½ cup raisins', '2 teaspoons honey', '½ teaspoon ground cinnamon', '1 teaspoon salt, divided', '¾ teaspoon freshly ground black pepper, divided', '1 tablespoon olive oil', '1 yellow squash, cut into thick sticks', '4 small turnips, cut into sticks', '2 carrots, cut into sticks', '1 poblano pepper, minced', '½ cup finely chopped cilantro', '½ teaspoon ground cumin']
+recipe_instructions: [{'@type': 'HowToStep', 'text': 'Bring water and wild rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender, 30 to 45 minutes. Drain excess liquid, fluff rice with a fork, and cook uncovered 5 minutes more.\n'}, {'@type': 'HowToStep', 'text': 'Heat 1 tablespoon sesame oil in a heavy skillet or Dutch oven over medium heat; cook and stir onion until lightly browned and tender, about 10 minutes. Add raisins, honey, cinnamon, 1/2 teaspoon salt, and 1/2 teaspoon black pepper to onion; reduce heat to medium-low and cook until raisins are tender, about 4 minutes. Transfer mixture to a bowl and keep warm.\n'}, {'@type': 'HowToStep', 'text': 'Heat the remaining 1 tablespoon sesame oil and olive oil in the same skillet over medium-high heat; add squash, turnips, and carrots. Cook and stir squash mixture until squash is just tender, 5 to 10 minutes. Reduce heat to medium; add poblano pepper, cilantro, cumin, 1/2 teaspoon salt, and 1/4 teaspoon black pepper. Cook and stir mixture until turnips and carrots are tender, 5 to 10 minutes more.\n'}, {'@type': 'HowToStep', 'text': 'Stir onion mixture and wild rice into turnip mixture and cook until heated through, 2 to 3 minutes.\n'}]
+---
+
+The subtle blend of flavors in this recipe are a great change of pace from normal American fare, but it doesn't use expensive specialty spices. 
+
+{{< boldheading >}}
+
+{{< checkbox "8 cups water" >}}
+{{< checkbox "2 cups wild rice" >}}
+{{< checkbox "2 tablespoons sesame oil, divided" >}}
+{{< checkbox "1  sweet onion, coarsely chopped" >}}
+{{< checkbox "½ cup raisins" >}}
+{{< checkbox "2 teaspoons honey" >}}
+{{< checkbox "½ teaspoon ground cinnamon" >}}
+{{< checkbox "1 teaspoon salt, divided" >}}
+{{< checkbox "¾ teaspoon freshly ground black pepper, divided" >}}
+{{< checkbox "1 tablespoon olive oil" >}}
+{{< checkbox "1  yellow squash, cut into thick sticks" >}}
+{{< checkbox "4 small turnips, cut into sticks" >}}
+{{< checkbox "2  carrots, cut into sticks" >}}
+{{< checkbox "1  poblano pepper, minced" >}}
+{{< checkbox "½ cup finely chopped cilantro" >}}
+{{< checkbox "½ teaspoon ground cumin" >}}
+
+
+{{< direction >}}
+
+**Step: 1**
+
+Bring water and wild rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender, 30 to 45 minutes. Drain excess liquid, fluff rice with a fork, and cook uncovered 5 minutes more.{{< span >}}
+
+**Step: 2**
+
+Heat 1 tablespoon sesame oil in a heavy skillet or Dutch oven over medium heat; cook and stir onion until lightly browned and tender, about 10 minutes. Add raisins, honey, cinnamon, 1/2 teaspoon salt, and 1/2 teaspoon black pepper to onion; reduce heat to medium-low and cook until raisins are tender, about 4 minutes. Transfer mixture to a bowl and keep warm.{{< span >}}
+
+**Step: 3**
+
+Heat the remaining 1 tablespoon sesame oil and olive oil in the same skillet over medium-high heat; add squash, turnips, and carrots. Cook and stir squash mixture until squash is just tender, 5 to 10 minutes. Reduce heat to medium; add poblano pepper, cilantro, cumin, 1/2 teaspoon salt, and 1/4 teaspoon black pepper. Cook and stir mixture until turnips and carrots are tender, 5 to 10 minutes more.{{< span >}}
+
+**Step: 4**
+
+Stir onion mixture and wild rice into turnip mixture and cook until heated through, 2 to 3 minutes.{{< span >}}
+
+{{< nutrition >}}
+
+**Per Serving:** 250 calories; protein 7.3g; carbohydrates 45.3g; fat 5.8g; sodium 336.7mg.

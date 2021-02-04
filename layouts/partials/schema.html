@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+
+    {
+        "@context": "https://schema.org/",
+        "@type": "Recipe",
+        "name": "{{ .Title }}",
+        "headline": "{{ .Title }}",
+        "image": "{{ .Params.photo | absURL }}",
+        "description": "{{ .Params.description }}",
+        "keywords": "{{ .Title }}",
+        "recipeCuisine": "United Kingdom",
+        "cookTime": "{{ .Params.cook_time }}",
+        "recipeYield": "{{ .Params.recipe_yield }}",
+        "recipeCategory": "Lunch",
+        "datePublished": "{{ .Params.date_published }}",
+        "author": {
+            "@type": "Person",
+            "name": "{{ .Params.Author }}"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "{{ .Params.rating_value }}",
+            "reviewCount": "{{ .Params.review_count }}"
+        },
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "{{ .Params.calories }}"
+        },
+        "recipeIngredient": {{ .Params.Recipe_ingredient }},
+        "recipeInstructions": {{ .Params.recipe_instructions }} 
+        
+    } 
+    
+</script>
+

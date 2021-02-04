@@ -1,0 +1,107 @@
+<!-- Tailwind css search -->
+<section class="p-56 px-10 lg:px-80 md:px-40 text-white" style="background-image: url('hero_resep.jpg')">
+
+    <form id="search-form" class="bg-white  p-3 text-gray-700" method="GET" action="https://duckduckgo.com/"
+        data-language-prefix="{{ site.LanguagePrefix }}">
+
+        {{/*  <span class="w-auto ml-10 items-center">
+        <div class="absolute pin-r pin-t mt-3 mr-4 text-purple-lighter">
+            <svg version="1.1" class="h-6 text-dark" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 52.966 52.966"
+                style="enable-background:new 0 0 52.966 52.966;" xml:space="preserve">
+                <path d="M51.704,51.273L36.845,35.82c3.79-3.801,6.138-9.041,6.138-14.82c0-11.58-9.42-21-21-21s-21,9.42-21,21s9.42,21,21,21
+          c5.083,0,9.748-1.817,13.384-4.832l14.895,15.491c0.196,0.205,0.458,0.307,0.721,0.307c0.25,0,0.499-0.093,0.693-0.279
+          C52.074,52.304,52.086,51.671,51.704,51.273z M21.983,40c-10.477,0-19-8.523-19-19s8.523-19,19-19s19,8.523,19,19
+          S32.459,40,21.983,40z" />
+            </svg>
+        </div>
+    </span>  */}}
+
+        <input id="search-input" class="w-full  rounded p-2" type="text" name="q" tabindex="0" autocomplete="off"
+            placeholder="Search recipe, ingridient, dish ...">
+
+        <ul id="search-results" class="search--display"></ul>
+
+    </form>
+
+</section>
+
+
+<!-- <script src="{{ "/scripts/fuse.js" | relURL }}"></script> -->
+<script src="{{ "/scripts/fixedsearch/fixedsearch.js" | urlize | relURL  }}"></script>
+
+<style>
+    #search-results {
+        display: block;
+        flex-grow: 2;
+        margin: 3px 0 0 0;
+        padding: 0;
+        max-height: calc(100vh - 1.4rem - 0.5px);
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+
+        backdrop-filter: blur(var(--page-color-blur, 2px));
+        border: 2.5px solid;
+        color: rgb(var(--text-color, '3,3,3'));
+        font-size: var(--s-2, 0.8rem);
+
+        scrollbar-color: rgb(var(--text-color, '3,3,3')) rgb(var(--page-color, '240,240,240')) !important;
+        scrollbar-width: thin !important;
+    }
+
+    #search-results:empty {
+        display: none;
+        opacity: 0;
+    }
+
+    #search-results li {
+        margin: 0;
+        width: 100%;
+
+        background-color: rgba(var(--page-color, '240,240,240'), var(--page-color-transparency, 0.89));
+        border-top: 0.5px dashed;
+        list-style: none;
+    }
+
+    #search-results li:first-child {
+        border: none;
+    }
+
+    #search-results a {
+        display: block;
+        padding: 0.3rem;
+        display: block;
+
+        text-decoration: none;
+    }
+
+    #search-results a:hover,
+    #search-results a:focus {
+        background: rgb(var(--text-color, '3,3,3'));
+        color: rgb(var(--page-color, '240,240,240'));
+        outline: 0;
+    }
+
+    #search-results a:active {
+        background: rgb(var(--accent-color, '0,0,255'));
+        color: rgb(var(--page-color, '240,240,240'));
+    }
+
+    #search-results li span:empty {
+        display: none;
+    }
+
+    #search-results li span:not(:last-child)::after {
+        content: ' – ';
+    }
+
+    #search-results li .title {
+        display: block;
+        margin-bottom: calc(var(--line-height, 1.4em)/3);
+    }
+
+    #search-results li .title::after {
+        display: none;
+    }
+</style>

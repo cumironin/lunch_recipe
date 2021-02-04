@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="max-w-3xl mx-auto mt-8 bg-white p-4">
+
+    <h1 class="text-4xl font-bold"> {{ .Title }} </h1>
+
+    <img class="rounded-lg object-cover h-96 w-full mt-5 " src="{{ .Params.Photo }}">
+
+    <div class="space-y-5 pt-3 text-justify">{{ .Content }}</div>
+
+
+    <!-- ini untuk related content dibawah (diakses melalui _default/single.html) -->
+    {{ partial "relatedpost.html" . }}
+
+</div>
+
+{{ end }}
