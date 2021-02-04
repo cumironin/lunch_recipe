@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gobi Aloo (Indian Style Cauliflower with Potatoes) on Delicate Recipe</title>
-    <link>http://example.org/lunch/gobi-aloo-indian-style-cauliflower-with-potatoes/</link>
+    <link>/lunch/gobi-aloo-indian-style-cauliflower-with-potatoes/</link>
     <description>Recent content in Gobi Aloo (Indian Style Cauliflower with Potatoes) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/gobi-aloo-indian-style-cauliflower-with-potatoes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/gobi-aloo-indian-style-cauliflower-with-potatoes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

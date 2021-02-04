@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Crema di Cavolo Romanesco (Romanesco Broccoli Soup) on Delicate Recipe</title>
-    <link>http://example.org/lunch/crema-di-cavolo-romanesco-romanesco-broccoli-soup/</link>
+    <link>/lunch/crema-di-cavolo-romanesco-romanesco-broccoli-soup/</link>
     <description>Recent content in Crema di Cavolo Romanesco (Romanesco Broccoli Soup) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/crema-di-cavolo-romanesco-romanesco-broccoli-soup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/crema-di-cavolo-romanesco-romanesco-broccoli-soup/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doreen&#39;s Ham Slices on the Grill on Delicate Recipe</title>
-    <link>http://example.org/lunch/doreens-ham-slices-on-the-grill/</link>
+    <link>/lunch/doreens-ham-slices-on-the-grill/</link>
     <description>Recent content in Doreen&#39;s Ham Slices on the Grill on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/doreens-ham-slices-on-the-grill/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/doreens-ham-slices-on-the-grill/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

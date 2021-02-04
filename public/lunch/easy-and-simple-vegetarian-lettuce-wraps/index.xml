@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Easy and Simple Vegetarian Lettuce Wraps on Delicate Recipe</title>
-    <link>http://example.org/lunch/easy-and-simple-vegetarian-lettuce-wraps/</link>
+    <link>/lunch/easy-and-simple-vegetarian-lettuce-wraps/</link>
     <description>Recent content in Easy and Simple Vegetarian Lettuce Wraps on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/easy-and-simple-vegetarian-lettuce-wraps/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/easy-and-simple-vegetarian-lettuce-wraps/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

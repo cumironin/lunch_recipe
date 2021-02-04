@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Penne, Peppers, and Chicken-Apple Sausage Saute on Delicate Recipe</title>
-    <link>http://example.org/lunch/penne-peppers-and-chicken-apple-sausage-saute/</link>
+    <link>/lunch/penne-peppers-and-chicken-apple-sausage-saute/</link>
     <description>Recent content in Penne, Peppers, and Chicken-Apple Sausage Saute on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/penne-peppers-and-chicken-apple-sausage-saute/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/penne-peppers-and-chicken-apple-sausage-saute/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

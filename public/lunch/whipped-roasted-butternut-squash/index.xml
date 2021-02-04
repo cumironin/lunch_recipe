@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whipped Roasted Butternut Squash on Delicate Recipe</title>
-    <link>http://example.org/lunch/whipped-roasted-butternut-squash/</link>
+    <link>/lunch/whipped-roasted-butternut-squash/</link>
     <description>Recent content in Whipped Roasted Butternut Squash on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/whipped-roasted-butternut-squash/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/whipped-roasted-butternut-squash/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

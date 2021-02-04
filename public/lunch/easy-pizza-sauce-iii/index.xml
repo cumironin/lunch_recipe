@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Easy Pizza Sauce III on Delicate Recipe</title>
-    <link>http://example.org/lunch/easy-pizza-sauce-iii/</link>
+    <link>/lunch/easy-pizza-sauce-iii/</link>
     <description>Recent content in Easy Pizza Sauce III on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/easy-pizza-sauce-iii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/easy-pizza-sauce-iii/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

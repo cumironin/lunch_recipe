@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salmon with Raspberry Ginger Glaze on Delicate Recipe</title>
-    <link>http://example.org/lunch/salmon-with-raspberry-ginger-glaze/</link>
+    <link>/lunch/salmon-with-raspberry-ginger-glaze/</link>
     <description>Recent content in Salmon with Raspberry Ginger Glaze on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/salmon-with-raspberry-ginger-glaze/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/salmon-with-raspberry-ginger-glaze/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

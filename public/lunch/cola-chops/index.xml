@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cola Chops on Delicate Recipe</title>
-    <link>http://example.org/lunch/cola-chops/</link>
+    <link>/lunch/cola-chops/</link>
     <description>Recent content in Cola Chops on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cola-chops/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cola-chops/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

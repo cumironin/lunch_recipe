@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peppered Elk Skillet on Delicate Recipe</title>
-    <link>http://example.org/lunch/peppered-elk-skillet/</link>
+    <link>/lunch/peppered-elk-skillet/</link>
     <description>Recent content in Peppered Elk Skillet on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/peppered-elk-skillet/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/peppered-elk-skillet/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

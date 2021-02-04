@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mushroom Onion Matzo Kugel on Delicate Recipe</title>
-    <link>http://example.org/lunch/mushroom-onion-matzo-kugel/</link>
+    <link>/lunch/mushroom-onion-matzo-kugel/</link>
     <description>Recent content in Mushroom Onion Matzo Kugel on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/mushroom-onion-matzo-kugel/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/mushroom-onion-matzo-kugel/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

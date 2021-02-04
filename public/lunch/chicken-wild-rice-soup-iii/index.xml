@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken Wild Rice Soup III on Delicate Recipe</title>
-    <link>http://example.org/lunch/chicken-wild-rice-soup-iii/</link>
+    <link>/lunch/chicken-wild-rice-soup-iii/</link>
     <description>Recent content in Chicken Wild Rice Soup III on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/chicken-wild-rice-soup-iii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/chicken-wild-rice-soup-iii/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

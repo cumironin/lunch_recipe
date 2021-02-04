@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer and Maple Lentil Stew on Delicate Recipe</title>
-    <link>http://example.org/lunch/beer-and-maple-lentil-stew/</link>
+    <link>/lunch/beer-and-maple-lentil-stew/</link>
     <description>Recent content in Beer and Maple Lentil Stew on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/beer-and-maple-lentil-stew/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/beer-and-maple-lentil-stew/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole&#39;s Balsamic Beet and Fresh Spinach Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/nicoles-balsamic-beet-and-fresh-spinach-salad/</link>
+    <link>/lunch/nicoles-balsamic-beet-and-fresh-spinach-salad/</link>
     <description>Recent content in Nicole&#39;s Balsamic Beet and Fresh Spinach Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/nicoles-balsamic-beet-and-fresh-spinach-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/nicoles-balsamic-beet-and-fresh-spinach-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

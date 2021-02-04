@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lentil Soup II on Delicate Recipe</title>
-    <link>http://example.org/lunch/lentil-soup-ii/</link>
+    <link>/lunch/lentil-soup-ii/</link>
     <description>Recent content in Lentil Soup II on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/lentil-soup-ii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/lentil-soup-ii/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

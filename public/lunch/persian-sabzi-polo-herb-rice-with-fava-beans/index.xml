@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Persian Sabzi Polo (Herb Rice with Fava Beans) on Delicate Recipe</title>
-    <link>http://example.org/lunch/persian-sabzi-polo-herb-rice-with-fava-beans/</link>
+    <link>/lunch/persian-sabzi-polo-herb-rice-with-fava-beans/</link>
     <description>Recent content in Persian Sabzi Polo (Herb Rice with Fava Beans) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/persian-sabzi-polo-herb-rice-with-fava-beans/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/persian-sabzi-polo-herb-rice-with-fava-beans/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

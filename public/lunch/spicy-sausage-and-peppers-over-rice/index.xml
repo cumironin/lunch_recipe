@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spicy Sausage and Peppers Over Rice on Delicate Recipe</title>
-    <link>http://example.org/lunch/spicy-sausage-and-peppers-over-rice/</link>
+    <link>/lunch/spicy-sausage-and-peppers-over-rice/</link>
     <description>Recent content in Spicy Sausage and Peppers Over Rice on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/spicy-sausage-and-peppers-over-rice/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/spicy-sausage-and-peppers-over-rice/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reduced Fat and Cholesterol Red Velvet Cake on Delicate Recipe</title>
-    <link>http://example.org/lunch/reduced-fat-and-cholesterol-red-velvet-cake/</link>
+    <link>/lunch/reduced-fat-and-cholesterol-red-velvet-cake/</link>
     <description>Recent content in Reduced Fat and Cholesterol Red Velvet Cake on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/reduced-fat-and-cholesterol-red-velvet-cake/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/reduced-fat-and-cholesterol-red-velvet-cake/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delaware Blue Crab Boil on Delicate Recipe</title>
-    <link>http://example.org/lunch/delaware-blue-crab-boil/</link>
+    <link>/lunch/delaware-blue-crab-boil/</link>
     <description>Recent content in Delaware Blue Crab Boil on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/delaware-blue-crab-boil/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/delaware-blue-crab-boil/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

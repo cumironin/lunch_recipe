@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spinach Salad With Berries and Curry Dressing on Delicate Recipe</title>
-    <link>http://example.org/lunch/spinach-salad-with-berries-and-curry-dressing/</link>
+    <link>/lunch/spinach-salad-with-berries-and-curry-dressing/</link>
     <description>Recent content in Spinach Salad With Berries and Curry Dressing on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/spinach-salad-with-berries-and-curry-dressing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/spinach-salad-with-berries-and-curry-dressing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

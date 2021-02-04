@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sole Steamed with Tomato-Leek Sauce on Delicate Recipe</title>
-    <link>http://example.org/lunch/sole-steamed-with-tomato-leek-sauce/</link>
+    <link>/lunch/sole-steamed-with-tomato-leek-sauce/</link>
     <description>Recent content in Sole Steamed with Tomato-Leek Sauce on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/sole-steamed-with-tomato-leek-sauce/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/sole-steamed-with-tomato-leek-sauce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

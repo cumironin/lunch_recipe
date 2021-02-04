@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puree of Green Things Soup with Quinoa and Pepper Relish on Delicate Recipe</title>
-    <link>http://example.org/lunch/puree-of-green-things-soup-with-quinoa-and-pepper-relish/</link>
+    <link>/lunch/puree-of-green-things-soup-with-quinoa-and-pepper-relish/</link>
     <description>Recent content in Puree of Green Things Soup with Quinoa and Pepper Relish on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/puree-of-green-things-soup-with-quinoa-and-pepper-relish/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/puree-of-green-things-soup-with-quinoa-and-pepper-relish/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

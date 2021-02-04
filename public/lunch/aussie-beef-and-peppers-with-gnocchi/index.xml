@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aussie Beef and Peppers with Gnocchi on Delicate Recipe</title>
-    <link>http://example.org/lunch/aussie-beef-and-peppers-with-gnocchi/</link>
+    <link>/lunch/aussie-beef-and-peppers-with-gnocchi/</link>
     <description>Recent content in Aussie Beef and Peppers with Gnocchi on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/aussie-beef-and-peppers-with-gnocchi/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/aussie-beef-and-peppers-with-gnocchi/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mango-Pineapple Smoothie on Delicate Recipe</title>
-    <link>http://example.org/lunch/mango-pineapple-smoothie/</link>
+    <link>/lunch/mango-pineapple-smoothie/</link>
     <description>Recent content in Mango-Pineapple Smoothie on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/mango-pineapple-smoothie/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/mango-pineapple-smoothie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

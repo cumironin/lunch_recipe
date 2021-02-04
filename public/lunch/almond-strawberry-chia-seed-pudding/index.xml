@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Almond Strawberry Chia Seed Pudding on Delicate Recipe</title>
-    <link>http://example.org/lunch/almond-strawberry-chia-seed-pudding/</link>
+    <link>/lunch/almond-strawberry-chia-seed-pudding/</link>
     <description>Recent content in Almond Strawberry Chia Seed Pudding on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/almond-strawberry-chia-seed-pudding/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/almond-strawberry-chia-seed-pudding/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

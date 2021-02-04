@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cholay (Curried Chickpeas) on Delicate Recipe</title>
-    <link>http://example.org/lunch/cholay-curried-chickpeas/</link>
+    <link>/lunch/cholay-curried-chickpeas/</link>
     <description>Recent content in Cholay (Curried Chickpeas) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cholay-curried-chickpeas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cholay-curried-chickpeas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

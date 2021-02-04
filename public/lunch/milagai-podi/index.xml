@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milagai Podi on Delicate Recipe</title>
-    <link>http://example.org/lunch/milagai-podi/</link>
+    <link>/lunch/milagai-podi/</link>
     <description>Recent content in Milagai Podi on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/milagai-podi/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/milagai-podi/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

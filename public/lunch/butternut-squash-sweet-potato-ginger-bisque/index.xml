@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Butternut Squash-Sweet Potato Ginger Bisque on Delicate Recipe</title>
-    <link>http://example.org/lunch/butternut-squash-sweet-potato-ginger-bisque/</link>
+    <link>/lunch/butternut-squash-sweet-potato-ginger-bisque/</link>
     <description>Recent content in Butternut Squash-Sweet Potato Ginger Bisque on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/butternut-squash-sweet-potato-ginger-bisque/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/butternut-squash-sweet-potato-ginger-bisque/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

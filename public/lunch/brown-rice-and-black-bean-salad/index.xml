@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brown Rice and Black Bean Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/brown-rice-and-black-bean-salad/</link>
+    <link>/lunch/brown-rice-and-black-bean-salad/</link>
     <description>Recent content in Brown Rice and Black Bean Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/brown-rice-and-black-bean-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/brown-rice-and-black-bean-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

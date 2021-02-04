@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vegetarian Chickpea Sandwich Filling on Delicate Recipe</title>
-    <link>http://example.org/lunch/vegetarian-chickpea-sandwich-filling/</link>
+    <link>/lunch/vegetarian-chickpea-sandwich-filling/</link>
     <description>Recent content in Vegetarian Chickpea Sandwich Filling on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/vegetarian-chickpea-sandwich-filling/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/vegetarian-chickpea-sandwich-filling/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

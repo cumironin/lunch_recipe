@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomato-Curry Lentil Stew on Delicate Recipe</title>
-    <link>http://example.org/lunch/tomato-curry-lentil-stew/</link>
+    <link>/lunch/tomato-curry-lentil-stew/</link>
     <description>Recent content in Tomato-Curry Lentil Stew on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/tomato-curry-lentil-stew/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/tomato-curry-lentil-stew/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

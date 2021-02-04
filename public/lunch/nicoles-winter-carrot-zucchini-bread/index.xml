@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole&#39;s Winter Carrot Zucchini Bread on Delicate Recipe</title>
-    <link>http://example.org/lunch/nicoles-winter-carrot-zucchini-bread/</link>
+    <link>/lunch/nicoles-winter-carrot-zucchini-bread/</link>
     <description>Recent content in Nicole&#39;s Winter Carrot Zucchini Bread on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/nicoles-winter-carrot-zucchini-bread/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/nicoles-winter-carrot-zucchini-bread/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

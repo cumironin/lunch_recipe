@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clare&#39;s Whole Wheat Potato Bread on Delicate Recipe</title>
-    <link>http://example.org/lunch/clares-whole-wheat-potato-bread/</link>
+    <link>/lunch/clares-whole-wheat-potato-bread/</link>
     <description>Recent content in Clare&#39;s Whole Wheat Potato Bread on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/clares-whole-wheat-potato-bread/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/clares-whole-wheat-potato-bread/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

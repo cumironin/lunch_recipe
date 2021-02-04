@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Best Melon, Mango, and Avocado Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/best-melon-mango-and-avocado-salad/</link>
+    <link>/lunch/best-melon-mango-and-avocado-salad/</link>
     <description>Recent content in Best Melon, Mango, and Avocado Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/best-melon-mango-and-avocado-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/best-melon-mango-and-avocado-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Year&#39;s Day Black-Eyed Peas on Delicate Recipe</title>
-    <link>http://example.org/lunch/new-years-day-black-eyed-peas/</link>
+    <link>/lunch/new-years-day-black-eyed-peas/</link>
     <description>Recent content in New Year&#39;s Day Black-Eyed Peas on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/new-years-day-black-eyed-peas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/new-years-day-black-eyed-peas/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

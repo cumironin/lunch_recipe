@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nita&#39;s Lamb, Green Beans and Tomatoes on Delicate Recipe</title>
-    <link>http://example.org/lunch/nitas-lamb-green-beans-and-tomatoes/</link>
+    <link>/lunch/nitas-lamb-green-beans-and-tomatoes/</link>
     <description>Recent content in Nita&#39;s Lamb, Green Beans and Tomatoes on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/nitas-lamb-green-beans-and-tomatoes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/nitas-lamb-green-beans-and-tomatoes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

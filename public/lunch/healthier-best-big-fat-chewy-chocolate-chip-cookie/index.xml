@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthier Best Big, Fat, Chewy Chocolate Chip Cookie on Delicate Recipe</title>
-    <link>http://example.org/lunch/healthier-best-big-fat-chewy-chocolate-chip-cookie/</link>
+    <link>/lunch/healthier-best-big-fat-chewy-chocolate-chip-cookie/</link>
     <description>Recent content in Healthier Best Big, Fat, Chewy Chocolate Chip Cookie on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/healthier-best-big-fat-chewy-chocolate-chip-cookie/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/healthier-best-big-fat-chewy-chocolate-chip-cookie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

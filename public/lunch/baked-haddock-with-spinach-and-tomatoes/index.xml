@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baked Haddock with Spinach and Tomatoes on Delicate Recipe</title>
-    <link>http://example.org/lunch/baked-haddock-with-spinach-and-tomatoes/</link>
+    <link>/lunch/baked-haddock-with-spinach-and-tomatoes/</link>
     <description>Recent content in Baked Haddock with Spinach and Tomatoes on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/baked-haddock-with-spinach-and-tomatoes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/baked-haddock-with-spinach-and-tomatoes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

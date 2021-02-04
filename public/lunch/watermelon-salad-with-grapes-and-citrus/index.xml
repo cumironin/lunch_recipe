@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Watermelon Salad with Grapes and Citrus on Delicate Recipe</title>
-    <link>http://example.org/lunch/watermelon-salad-with-grapes-and-citrus/</link>
+    <link>/lunch/watermelon-salad-with-grapes-and-citrus/</link>
     <description>Recent content in Watermelon Salad with Grapes and Citrus on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/watermelon-salad-with-grapes-and-citrus/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/watermelon-salad-with-grapes-and-citrus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

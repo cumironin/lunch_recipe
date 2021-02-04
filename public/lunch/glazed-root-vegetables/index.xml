@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glazed Root Vegetables on Delicate Recipe</title>
-    <link>http://example.org/lunch/glazed-root-vegetables/</link>
+    <link>/lunch/glazed-root-vegetables/</link>
     <description>Recent content in Glazed Root Vegetables on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/glazed-root-vegetables/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/glazed-root-vegetables/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

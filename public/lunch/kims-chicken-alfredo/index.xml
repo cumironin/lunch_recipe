@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kim&#39;s Chicken Alfredo on Delicate Recipe</title>
-    <link>http://example.org/lunch/kims-chicken-alfredo/</link>
+    <link>/lunch/kims-chicken-alfredo/</link>
     <description>Recent content in Kim&#39;s Chicken Alfredo on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/kims-chicken-alfredo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/kims-chicken-alfredo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jackfruit Curry (Kathal Subzi) on Delicate Recipe</title>
-    <link>http://example.org/lunch/jackfruit-curry-kathal-subzi/</link>
+    <link>/lunch/jackfruit-curry-kathal-subzi/</link>
     <description>Recent content in Jackfruit Curry (Kathal Subzi) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/jackfruit-curry-kathal-subzi/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/jackfruit-curry-kathal-subzi/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cranberry Waldorf with Yogurt on Delicate Recipe</title>
-    <link>http://example.org/lunch/cranberry-waldorf-with-yogurt/</link>
+    <link>/lunch/cranberry-waldorf-with-yogurt/</link>
     <description>Recent content in Cranberry Waldorf with Yogurt on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cranberry-waldorf-with-yogurt/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cranberry-waldorf-with-yogurt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

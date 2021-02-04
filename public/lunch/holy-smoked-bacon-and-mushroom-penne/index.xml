@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holy Smoked Bacon and Mushroom Penne on Delicate Recipe</title>
-    <link>http://example.org/lunch/holy-smoked-bacon-and-mushroom-penne/</link>
+    <link>/lunch/holy-smoked-bacon-and-mushroom-penne/</link>
     <description>Recent content in Holy Smoked Bacon and Mushroom Penne on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/holy-smoked-bacon-and-mushroom-penne/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/holy-smoked-bacon-and-mushroom-penne/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer Berry Parfait with Yogurt and Granola on Delicate Recipe</title>
-    <link>http://example.org/lunch/summer-berry-parfait-with-yogurt-and-granola/</link>
+    <link>/lunch/summer-berry-parfait-with-yogurt-and-granola/</link>
     <description>Recent content in Summer Berry Parfait with Yogurt and Granola on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/summer-berry-parfait-with-yogurt-and-granola/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/summer-berry-parfait-with-yogurt-and-granola/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

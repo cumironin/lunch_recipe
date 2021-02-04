@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swan&#39;s Summer Soup on Delicate Recipe</title>
-    <link>http://example.org/lunch/swans-summer-soup/</link>
+    <link>/lunch/swans-summer-soup/</link>
     <description>Recent content in Swan&#39;s Summer Soup on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/swans-summer-soup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/swans-summer-soup/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

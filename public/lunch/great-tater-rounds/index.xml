@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Great Tater Rounds on Delicate Recipe</title>
-    <link>http://example.org/lunch/great-tater-rounds/</link>
+    <link>/lunch/great-tater-rounds/</link>
     <description>Recent content in Great Tater Rounds on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/great-tater-rounds/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/great-tater-rounds/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

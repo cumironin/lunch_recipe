@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olya&#39;s Russian Beet Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/olyas-russian-beet-salad/</link>
+    <link>/lunch/olyas-russian-beet-salad/</link>
     <description>Recent content in Olya&#39;s Russian Beet Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/olyas-russian-beet-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/olyas-russian-beet-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

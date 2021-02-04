@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Honey Wheat Muffins on Delicate Recipe</title>
-    <link>http://example.org/lunch/honey-wheat-muffins/</link>
+    <link>/lunch/honey-wheat-muffins/</link>
     <description>Recent content in Honey Wheat Muffins on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/honey-wheat-muffins/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/honey-wheat-muffins/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

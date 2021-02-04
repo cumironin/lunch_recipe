@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veggie Pasta Minus the Pasta on Delicate Recipe</title>
-    <link>http://example.org/lunch/veggie-pasta-minus-the-pasta/</link>
+    <link>/lunch/veggie-pasta-minus-the-pasta/</link>
     <description>Recent content in Veggie Pasta Minus the Pasta on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/veggie-pasta-minus-the-pasta/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/veggie-pasta-minus-the-pasta/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

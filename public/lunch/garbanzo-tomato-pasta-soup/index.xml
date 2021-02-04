@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garbanzo Tomato Pasta Soup on Delicate Recipe</title>
-    <link>http://example.org/lunch/garbanzo-tomato-pasta-soup/</link>
+    <link>/lunch/garbanzo-tomato-pasta-soup/</link>
     <description>Recent content in Garbanzo Tomato Pasta Soup on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/garbanzo-tomato-pasta-soup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/garbanzo-tomato-pasta-soup/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

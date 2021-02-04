@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baked Sweet Potato Coins on Delicate Recipe</title>
-    <link>http://example.org/lunch/baked-sweet-potato-coins/</link>
+    <link>/lunch/baked-sweet-potato-coins/</link>
     <description>Recent content in Baked Sweet Potato Coins on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/baked-sweet-potato-coins/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/baked-sweet-potato-coins/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

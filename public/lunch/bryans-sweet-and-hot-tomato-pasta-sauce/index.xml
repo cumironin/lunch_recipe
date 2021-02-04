@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryan&#39;s Sweet and Hot Tomato Pasta Sauce on Delicate Recipe</title>
-    <link>http://example.org/lunch/bryans-sweet-and-hot-tomato-pasta-sauce/</link>
+    <link>/lunch/bryans-sweet-and-hot-tomato-pasta-sauce/</link>
     <description>Recent content in Bryan&#39;s Sweet and Hot Tomato Pasta Sauce on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/bryans-sweet-and-hot-tomato-pasta-sauce/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/bryans-sweet-and-hot-tomato-pasta-sauce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

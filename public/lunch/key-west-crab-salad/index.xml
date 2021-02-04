@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Key West Crab Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/key-west-crab-salad/</link>
+    <link>/lunch/key-west-crab-salad/</link>
     <description>Recent content in Key West Crab Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/key-west-crab-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/key-west-crab-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A New Green Bean Casserole on Delicate Recipe</title>
-    <link>http://example.org/lunch/a-new-green-bean-casserole/</link>
+    <link>/lunch/a-new-green-bean-casserole/</link>
     <description>Recent content in A New Green Bean Casserole on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/a-new-green-bean-casserole/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/a-new-green-bean-casserole/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

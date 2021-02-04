@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken and Sweet Potato Bake on Delicate Recipe</title>
-    <link>http://example.org/lunch/chicken-and-sweet-potato-bake/</link>
+    <link>/lunch/chicken-and-sweet-potato-bake/</link>
     <description>Recent content in Chicken and Sweet Potato Bake on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/chicken-and-sweet-potato-bake/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/chicken-and-sweet-potato-bake/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

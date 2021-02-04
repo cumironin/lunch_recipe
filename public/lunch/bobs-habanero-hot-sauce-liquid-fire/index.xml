@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bob&#39;s Habanero Hot Sauce - Liquid Fire on Delicate Recipe</title>
-    <link>http://example.org/lunch/bobs-habanero-hot-sauce-liquid-fire/</link>
+    <link>/lunch/bobs-habanero-hot-sauce-liquid-fire/</link>
     <description>Recent content in Bob&#39;s Habanero Hot Sauce - Liquid Fire on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/bobs-habanero-hot-sauce-liquid-fire/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/bobs-habanero-hot-sauce-liquid-fire/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

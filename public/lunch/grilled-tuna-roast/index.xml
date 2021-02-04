@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grilled Tuna Roast on Delicate Recipe</title>
-    <link>http://example.org/lunch/grilled-tuna-roast/</link>
+    <link>/lunch/grilled-tuna-roast/</link>
     <description>Recent content in Grilled Tuna Roast on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/grilled-tuna-roast/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/grilled-tuna-roast/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

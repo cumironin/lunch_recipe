@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paleo Spaghetti Squash Primavera on Delicate Recipe</title>
-    <link>http://example.org/lunch/paleo-spaghetti-squash-primavera/</link>
+    <link>/lunch/paleo-spaghetti-squash-primavera/</link>
     <description>Recent content in Paleo Spaghetti Squash Primavera on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/paleo-spaghetti-squash-primavera/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/paleo-spaghetti-squash-primavera/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

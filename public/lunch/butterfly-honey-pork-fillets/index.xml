@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Butterfly Honey Pork Fillets on Delicate Recipe</title>
-    <link>http://example.org/lunch/butterfly-honey-pork-fillets/</link>
+    <link>/lunch/butterfly-honey-pork-fillets/</link>
     <description>Recent content in Butterfly Honey Pork Fillets on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/butterfly-honey-pork-fillets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/butterfly-honey-pork-fillets/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

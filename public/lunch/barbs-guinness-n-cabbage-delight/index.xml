@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barb&#39;s Guinness®-n-Cabbage Delight on Delicate Recipe</title>
-    <link>http://example.org/lunch/barbs-guinness-n-cabbage-delight/</link>
+    <link>/lunch/barbs-guinness-n-cabbage-delight/</link>
     <description>Recent content in Barb&#39;s Guinness®-n-Cabbage Delight on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/barbs-guinness-n-cabbage-delight/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/barbs-guinness-n-cabbage-delight/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Low-Fat Celery and Peas with Cream on Delicate Recipe</title>
-    <link>http://example.org/lunch/low-fat-celery-and-peas-with-cream/</link>
+    <link>/lunch/low-fat-celery-and-peas-with-cream/</link>
     <description>Recent content in Low-Fat Celery and Peas with Cream on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/low-fat-celery-and-peas-with-cream/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/low-fat-celery-and-peas-with-cream/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

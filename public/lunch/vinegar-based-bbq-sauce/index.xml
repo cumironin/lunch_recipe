@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vinegar Based BBQ Sauce on Delicate Recipe</title>
-    <link>http://example.org/lunch/vinegar-based-bbq-sauce/</link>
+    <link>/lunch/vinegar-based-bbq-sauce/</link>
     <description>Recent content in Vinegar Based BBQ Sauce on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/vinegar-based-bbq-sauce/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/vinegar-based-bbq-sauce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turkish Orange Salad with Mediterranean Dressing on Delicate Recipe</title>
-    <link>http://example.org/lunch/turkish-orange-salad-with-mediterranean-dressing/</link>
+    <link>/lunch/turkish-orange-salad-with-mediterranean-dressing/</link>
     <description>Recent content in Turkish Orange Salad with Mediterranean Dressing on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/turkish-orange-salad-with-mediterranean-dressing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/turkish-orange-salad-with-mediterranean-dressing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bulgur Veggie Stir Fry on Delicate Recipe</title>
-    <link>http://example.org/lunch/bulgur-veggie-stir-fry/</link>
+    <link>/lunch/bulgur-veggie-stir-fry/</link>
     <description>Recent content in Bulgur Veggie Stir Fry on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/bulgur-veggie-stir-fry/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/bulgur-veggie-stir-fry/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

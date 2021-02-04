@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Easy Apricot Chicken in a Pan on Delicate Recipe</title>
-    <link>http://example.org/lunch/easy-apricot-chicken-in-a-pan/</link>
+    <link>/lunch/easy-apricot-chicken-in-a-pan/</link>
     <description>Recent content in Easy Apricot Chicken in a Pan on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/easy-apricot-chicken-in-a-pan/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/easy-apricot-chicken-in-a-pan/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

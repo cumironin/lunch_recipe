@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roasted Tikel Gomen on Delicate Recipe</title>
-    <link>http://example.org/lunch/roasted-tikel-gomen/</link>
+    <link>/lunch/roasted-tikel-gomen/</link>
     <description>Recent content in Roasted Tikel Gomen on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/roasted-tikel-gomen/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/roasted-tikel-gomen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

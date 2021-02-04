@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conch Ceviche with Pineapple on Delicate Recipe</title>
-    <link>http://example.org/lunch/conch-ceviche-with-pineapple/</link>
+    <link>/lunch/conch-ceviche-with-pineapple/</link>
     <description>Recent content in Conch Ceviche with Pineapple on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/conch-ceviche-with-pineapple/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/conch-ceviche-with-pineapple/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

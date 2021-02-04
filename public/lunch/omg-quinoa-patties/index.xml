@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OMG! Quinoa Patties on Delicate Recipe</title>
-    <link>http://example.org/lunch/omg-quinoa-patties/</link>
+    <link>/lunch/omg-quinoa-patties/</link>
     <description>Recent content in OMG! Quinoa Patties on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/omg-quinoa-patties/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/omg-quinoa-patties/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

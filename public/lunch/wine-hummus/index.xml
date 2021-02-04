@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine Hummus on Delicate Recipe</title>
-    <link>http://example.org/lunch/wine-hummus/</link>
+    <link>/lunch/wine-hummus/</link>
     <description>Recent content in Wine Hummus on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/wine-hummus/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/wine-hummus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

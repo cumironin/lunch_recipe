@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cherry Chicken Lettuce Wraps on Delicate Recipe</title>
-    <link>http://example.org/lunch/cherry-chicken-lettuce-wraps/</link>
+    <link>/lunch/cherry-chicken-lettuce-wraps/</link>
     <description>Recent content in Cherry Chicken Lettuce Wraps on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cherry-chicken-lettuce-wraps/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cherry-chicken-lettuce-wraps/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

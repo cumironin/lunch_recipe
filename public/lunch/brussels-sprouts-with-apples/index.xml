@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brussels Sprouts with Apples on Delicate Recipe</title>
-    <link>http://example.org/lunch/brussels-sprouts-with-apples/</link>
+    <link>/lunch/brussels-sprouts-with-apples/</link>
     <description>Recent content in Brussels Sprouts with Apples on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/brussels-sprouts-with-apples/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/brussels-sprouts-with-apples/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

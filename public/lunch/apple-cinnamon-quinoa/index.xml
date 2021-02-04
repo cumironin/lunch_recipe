@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apple Cinnamon Quinoa on Delicate Recipe</title>
-    <link>http://example.org/lunch/apple-cinnamon-quinoa/</link>
+    <link>/lunch/apple-cinnamon-quinoa/</link>
     <description>Recent content in Apple Cinnamon Quinoa on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/apple-cinnamon-quinoa/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/apple-cinnamon-quinoa/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

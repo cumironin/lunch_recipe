@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shrimp with Penne and Squash on Delicate Recipe</title>
-    <link>http://example.org/lunch/shrimp-with-penne-and-squash/</link>
+    <link>/lunch/shrimp-with-penne-and-squash/</link>
     <description>Recent content in Shrimp with Penne and Squash on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/shrimp-with-penne-and-squash/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/shrimp-with-penne-and-squash/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

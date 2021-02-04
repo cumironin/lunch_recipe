@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green Velvet Soup on Delicate Recipe</title>
-    <link>http://example.org/lunch/green-velvet-soup/</link>
+    <link>/lunch/green-velvet-soup/</link>
     <description>Recent content in Green Velvet Soup on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/green-velvet-soup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/green-velvet-soup/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

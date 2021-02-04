@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ginger Tomato Stir-Fry with Pea Vines on Delicate Recipe</title>
-    <link>http://example.org/lunch/ginger-tomato-stir-fry-with-pea-vines/</link>
+    <link>/lunch/ginger-tomato-stir-fry-with-pea-vines/</link>
     <description>Recent content in Ginger Tomato Stir-Fry with Pea Vines on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/ginger-tomato-stir-fry-with-pea-vines/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/ginger-tomato-stir-fry-with-pea-vines/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

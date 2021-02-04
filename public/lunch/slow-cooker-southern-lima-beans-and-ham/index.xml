@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slow Cooker Southern Lima Beans and Ham on Delicate Recipe</title>
-    <link>http://example.org/lunch/slow-cooker-southern-lima-beans-and-ham/</link>
+    <link>/lunch/slow-cooker-southern-lima-beans-and-ham/</link>
     <description>Recent content in Slow Cooker Southern Lima Beans and Ham on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/slow-cooker-southern-lima-beans-and-ham/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/slow-cooker-southern-lima-beans-and-ham/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

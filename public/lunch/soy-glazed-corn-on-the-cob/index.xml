@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soy-Glazed Corn on the Cob on Delicate Recipe</title>
-    <link>http://example.org/lunch/soy-glazed-corn-on-the-cob/</link>
+    <link>/lunch/soy-glazed-corn-on-the-cob/</link>
     <description>Recent content in Soy-Glazed Corn on the Cob on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/soy-glazed-corn-on-the-cob/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/soy-glazed-corn-on-the-cob/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

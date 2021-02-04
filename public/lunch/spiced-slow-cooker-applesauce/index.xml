@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiced Slow Cooker Applesauce on Delicate Recipe</title>
-    <link>http://example.org/lunch/spiced-slow-cooker-applesauce/</link>
+    <link>/lunch/spiced-slow-cooker-applesauce/</link>
     <description>Recent content in Spiced Slow Cooker Applesauce on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/spiced-slow-cooker-applesauce/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/spiced-slow-cooker-applesauce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

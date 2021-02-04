@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chef John&#39;s Baba Ghanoush on Delicate Recipe</title>
-    <link>http://example.org/lunch/chef-johns-baba-ghanoush/</link>
+    <link>/lunch/chef-johns-baba-ghanoush/</link>
     <description>Recent content in Chef John&#39;s Baba Ghanoush on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/chef-johns-baba-ghanoush/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/chef-johns-baba-ghanoush/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

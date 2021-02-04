@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lemony Green Beans with Walnuts and Thyme on Delicate Recipe</title>
-    <link>http://example.org/lunch/lemony-green-beans-with-walnuts-and-thyme/</link>
+    <link>/lunch/lemony-green-beans-with-walnuts-and-thyme/</link>
     <description>Recent content in Lemony Green Beans with Walnuts and Thyme on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/lemony-green-beans-with-walnuts-and-thyme/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/lemony-green-beans-with-walnuts-and-thyme/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

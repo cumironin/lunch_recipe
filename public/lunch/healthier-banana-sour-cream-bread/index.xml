@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthier Banana Sour Cream Bread on Delicate Recipe</title>
-    <link>http://example.org/lunch/healthier-banana-sour-cream-bread/</link>
+    <link>/lunch/healthier-banana-sour-cream-bread/</link>
     <description>Recent content in Healthier Banana Sour Cream Bread on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/healthier-banana-sour-cream-bread/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/healthier-banana-sour-cream-bread/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

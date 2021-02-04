@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanilla Frozen Yogurt on Delicate Recipe</title>
-    <link>http://example.org/lunch/vanilla-frozen-yogurt/</link>
+    <link>/lunch/vanilla-frozen-yogurt/</link>
     <description>Recent content in Vanilla Frozen Yogurt on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/vanilla-frozen-yogurt/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/vanilla-frozen-yogurt/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

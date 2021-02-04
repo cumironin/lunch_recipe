@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutty Wild Rice Salad with Kiwifruit and Red Grapes on Delicate Recipe</title>
-    <link>http://example.org/lunch/nutty-wild-rice-salad-with-kiwifruit-and-red-grapes/</link>
+    <link>/lunch/nutty-wild-rice-salad-with-kiwifruit-and-red-grapes/</link>
     <description>Recent content in Nutty Wild Rice Salad with Kiwifruit and Red Grapes on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/nutty-wild-rice-salad-with-kiwifruit-and-red-grapes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/nutty-wild-rice-salad-with-kiwifruit-and-red-grapes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

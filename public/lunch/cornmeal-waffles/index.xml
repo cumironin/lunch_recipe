@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cornmeal Waffles on Delicate Recipe</title>
-    <link>http://example.org/lunch/cornmeal-waffles/</link>
+    <link>/lunch/cornmeal-waffles/</link>
     <description>Recent content in Cornmeal Waffles on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cornmeal-waffles/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cornmeal-waffles/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

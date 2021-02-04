@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken Breasts with Plum Salsa and Basmati Rice on Delicate Recipe</title>
-    <link>http://example.org/lunch/chicken-breasts-with-plum-salsa-and-basmati-rice/</link>
+    <link>/lunch/chicken-breasts-with-plum-salsa-and-basmati-rice/</link>
     <description>Recent content in Chicken Breasts with Plum Salsa and Basmati Rice on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/chicken-breasts-with-plum-salsa-and-basmati-rice/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/chicken-breasts-with-plum-salsa-and-basmati-rice/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

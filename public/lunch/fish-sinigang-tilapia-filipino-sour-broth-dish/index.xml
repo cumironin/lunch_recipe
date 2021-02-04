@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fish Sinigang (Tilapia) - Filipino Sour Broth Dish on Delicate Recipe</title>
-    <link>http://example.org/lunch/fish-sinigang-tilapia-filipino-sour-broth-dish/</link>
+    <link>/lunch/fish-sinigang-tilapia-filipino-sour-broth-dish/</link>
     <description>Recent content in Fish Sinigang (Tilapia) - Filipino Sour Broth Dish on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/fish-sinigang-tilapia-filipino-sour-broth-dish/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/fish-sinigang-tilapia-filipino-sour-broth-dish/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

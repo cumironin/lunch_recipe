@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Irish Soda Bread V on Delicate Recipe</title>
-    <link>http://example.org/lunch/irish-soda-bread-v/</link>
+    <link>/lunch/irish-soda-bread-v/</link>
     <description>Recent content in Irish Soda Bread V on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/irish-soda-bread-v/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/irish-soda-bread-v/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ken&#39;s Scallops on Delicate Recipe</title>
-    <link>http://example.org/lunch/kens-scallops/</link>
+    <link>/lunch/kens-scallops/</link>
     <description>Recent content in Ken&#39;s Scallops on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/kens-scallops/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/kens-scallops/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

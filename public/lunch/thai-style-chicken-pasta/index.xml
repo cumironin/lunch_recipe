@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thai Style Chicken Pasta on Delicate Recipe</title>
-    <link>http://example.org/lunch/thai-style-chicken-pasta/</link>
+    <link>/lunch/thai-style-chicken-pasta/</link>
     <description>Recent content in Thai Style Chicken Pasta on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/thai-style-chicken-pasta/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/thai-style-chicken-pasta/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Black-Eyed Peas With Collard Greens and Turnips on Delicate Recipe</title>
-    <link>http://example.org/lunch/black-eyed-peas-with-collard-greens-and-turnips/</link>
+    <link>/lunch/black-eyed-peas-with-collard-greens-and-turnips/</link>
     <description>Recent content in Black-Eyed Peas With Collard Greens and Turnips on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/black-eyed-peas-with-collard-greens-and-turnips/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/black-eyed-peas-with-collard-greens-and-turnips/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

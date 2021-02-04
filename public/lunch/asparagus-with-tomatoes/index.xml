@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asparagus with Tomatoes on Delicate Recipe</title>
-    <link>http://example.org/lunch/asparagus-with-tomatoes/</link>
+    <link>/lunch/asparagus-with-tomatoes/</link>
     <description>Recent content in Asparagus with Tomatoes on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/asparagus-with-tomatoes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/asparagus-with-tomatoes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

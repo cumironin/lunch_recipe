@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tangy Tomato Dressing on Delicate Recipe</title>
-    <link>http://example.org/lunch/tangy-tomato-dressing/</link>
+    <link>/lunch/tangy-tomato-dressing/</link>
     <description>Recent content in Tangy Tomato Dressing on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/tangy-tomato-dressing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/tangy-tomato-dressing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

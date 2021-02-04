@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roasted Sweet Potatoes and Vegetables With Thyme and Maple Syrup on Delicate Recipe</title>
-    <link>http://example.org/lunch/roasted-sweet-potatoes-and-vegetables-with-thyme-and-maple-syrup/</link>
+    <link>/lunch/roasted-sweet-potatoes-and-vegetables-with-thyme-and-maple-syrup/</link>
     <description>Recent content in Roasted Sweet Potatoes and Vegetables With Thyme and Maple Syrup on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/roasted-sweet-potatoes-and-vegetables-with-thyme-and-maple-syrup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/roasted-sweet-potatoes-and-vegetables-with-thyme-and-maple-syrup/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grilled Tomato, Onion, and Bread Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/grilled-tomato-onion-and-bread-salad/</link>
+    <link>/lunch/grilled-tomato-onion-and-bread-salad/</link>
     <description>Recent content in Grilled Tomato, Onion, and Bread Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/grilled-tomato-onion-and-bread-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/grilled-tomato-onion-and-bread-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

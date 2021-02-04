@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pretty Pomegranate Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/pretty-pomegranate-salad/</link>
+    <link>/lunch/pretty-pomegranate-salad/</link>
     <description>Recent content in Pretty Pomegranate Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/pretty-pomegranate-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/pretty-pomegranate-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

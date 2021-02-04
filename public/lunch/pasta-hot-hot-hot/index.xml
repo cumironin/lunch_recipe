@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta Hot! Hot! Hot! on Delicate Recipe</title>
-    <link>http://example.org/lunch/pasta-hot-hot-hot/</link>
+    <link>/lunch/pasta-hot-hot-hot/</link>
     <description>Recent content in Pasta Hot! Hot! Hot! on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/pasta-hot-hot-hot/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/pasta-hot-hot-hot/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Panang Curry Paste on Delicate Recipe</title>
-    <link>http://example.org/lunch/panang-curry-paste/</link>
+    <link>/lunch/panang-curry-paste/</link>
     <description>Recent content in Panang Curry Paste on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/panang-curry-paste/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/panang-curry-paste/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

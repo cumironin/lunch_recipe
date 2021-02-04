@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spinach and Berry Smoothie with Truvia® Natural Sweetener on Delicate Recipe</title>
-    <link>http://example.org/lunch/spinach-and-berry-smoothie-with-truvia-natural-sweetener/</link>
+    <link>/lunch/spinach-and-berry-smoothie-with-truvia-natural-sweetener/</link>
     <description>Recent content in Spinach and Berry Smoothie with Truvia® Natural Sweetener on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/spinach-and-berry-smoothie-with-truvia-natural-sweetener/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/spinach-and-berry-smoothie-with-truvia-natural-sweetener/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

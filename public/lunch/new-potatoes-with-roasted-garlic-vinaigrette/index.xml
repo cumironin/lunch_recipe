@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Potatoes with Roasted Garlic Vinaigrette on Delicate Recipe</title>
-    <link>http://example.org/lunch/new-potatoes-with-roasted-garlic-vinaigrette/</link>
+    <link>/lunch/new-potatoes-with-roasted-garlic-vinaigrette/</link>
     <description>Recent content in New Potatoes with Roasted Garlic Vinaigrette on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/new-potatoes-with-roasted-garlic-vinaigrette/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/new-potatoes-with-roasted-garlic-vinaigrette/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

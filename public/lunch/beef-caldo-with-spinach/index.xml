@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beef Caldo with Spinach on Delicate Recipe</title>
-    <link>http://example.org/lunch/beef-caldo-with-spinach/</link>
+    <link>/lunch/beef-caldo-with-spinach/</link>
     <description>Recent content in Beef Caldo with Spinach on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/beef-caldo-with-spinach/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/beef-caldo-with-spinach/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

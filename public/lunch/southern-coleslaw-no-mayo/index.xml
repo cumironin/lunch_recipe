@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Southern Coleslaw - No Mayo on Delicate Recipe</title>
-    <link>http://example.org/lunch/southern-coleslaw-no-mayo/</link>
+    <link>/lunch/southern-coleslaw-no-mayo/</link>
     <description>Recent content in Southern Coleslaw - No Mayo on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/southern-coleslaw-no-mayo/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/southern-coleslaw-no-mayo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

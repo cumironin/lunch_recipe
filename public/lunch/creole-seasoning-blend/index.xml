@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creole Seasoning Blend on Delicate Recipe</title>
-    <link>http://example.org/lunch/creole-seasoning-blend/</link>
+    <link>/lunch/creole-seasoning-blend/</link>
     <description>Recent content in Creole Seasoning Blend on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/creole-seasoning-blend/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/creole-seasoning-blend/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

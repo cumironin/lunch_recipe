@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dreamy Cashew Butter Smoothie with Banana, Berry, Dates, and Flax on Delicate Recipe</title>
-    <link>http://example.org/lunch/dreamy-cashew-butter-smoothie-with-banana-berry-dates-and-flax/</link>
+    <link>/lunch/dreamy-cashew-butter-smoothie-with-banana-berry-dates-and-flax/</link>
     <description>Recent content in Dreamy Cashew Butter Smoothie with Banana, Berry, Dates, and Flax on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/dreamy-cashew-butter-smoothie-with-banana-berry-dates-and-flax/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/dreamy-cashew-butter-smoothie-with-banana-berry-dates-and-flax/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snow Peas with Water Chestnuts on Delicate Recipe</title>
-    <link>http://example.org/lunch/snow-peas-with-water-chestnuts/</link>
+    <link>/lunch/snow-peas-with-water-chestnuts/</link>
     <description>Recent content in Snow Peas with Water Chestnuts on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/snow-peas-with-water-chestnuts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/snow-peas-with-water-chestnuts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

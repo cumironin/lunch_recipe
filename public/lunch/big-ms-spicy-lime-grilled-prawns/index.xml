@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big M&#39;s Spicy Lime Grilled Prawns on Delicate Recipe</title>
-    <link>http://example.org/lunch/big-ms-spicy-lime-grilled-prawns/</link>
+    <link>/lunch/big-ms-spicy-lime-grilled-prawns/</link>
     <description>Recent content in Big M&#39;s Spicy Lime Grilled Prawns on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/big-ms-spicy-lime-grilled-prawns/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/big-ms-spicy-lime-grilled-prawns/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

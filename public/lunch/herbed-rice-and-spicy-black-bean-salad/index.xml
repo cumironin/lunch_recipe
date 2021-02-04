@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herbed Rice and Spicy Black Bean Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/herbed-rice-and-spicy-black-bean-salad/</link>
+    <link>/lunch/herbed-rice-and-spicy-black-bean-salad/</link>
     <description>Recent content in Herbed Rice and Spicy Black Bean Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/herbed-rice-and-spicy-black-bean-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/herbed-rice-and-spicy-black-bean-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

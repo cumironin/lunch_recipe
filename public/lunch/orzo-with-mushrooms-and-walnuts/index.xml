@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Orzo with Mushrooms and Walnuts on Delicate Recipe</title>
-    <link>http://example.org/lunch/orzo-with-mushrooms-and-walnuts/</link>
+    <link>/lunch/orzo-with-mushrooms-and-walnuts/</link>
     <description>Recent content in Orzo with Mushrooms and Walnuts on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/orzo-with-mushrooms-and-walnuts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/orzo-with-mushrooms-and-walnuts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

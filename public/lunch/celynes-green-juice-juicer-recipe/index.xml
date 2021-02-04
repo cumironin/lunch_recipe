@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Celyne&#39;s Green Juice - Juicer Recipe on Delicate Recipe</title>
-    <link>http://example.org/lunch/celynes-green-juice-juicer-recipe/</link>
+    <link>/lunch/celynes-green-juice-juicer-recipe/</link>
     <description>Recent content in Celyne&#39;s Green Juice - Juicer Recipe on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/celynes-green-juice-juicer-recipe/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/celynes-green-juice-juicer-recipe/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

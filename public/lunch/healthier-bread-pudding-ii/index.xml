@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Healthier Bread Pudding II on Delicate Recipe</title>
-    <link>http://example.org/lunch/healthier-bread-pudding-ii/</link>
+    <link>/lunch/healthier-bread-pudding-ii/</link>
     <description>Recent content in Healthier Bread Pudding II on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/healthier-bread-pudding-ii/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/healthier-bread-pudding-ii/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

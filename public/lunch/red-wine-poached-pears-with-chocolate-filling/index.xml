@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Red Wine Poached Pears with Chocolate Filling on Delicate Recipe</title>
-    <link>http://example.org/lunch/red-wine-poached-pears-with-chocolate-filling/</link>
+    <link>/lunch/red-wine-poached-pears-with-chocolate-filling/</link>
     <description>Recent content in Red Wine Poached Pears with Chocolate Filling on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/red-wine-poached-pears-with-chocolate-filling/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/red-wine-poached-pears-with-chocolate-filling/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

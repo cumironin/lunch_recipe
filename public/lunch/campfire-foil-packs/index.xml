@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Campfire Foil Packs on Delicate Recipe</title>
-    <link>http://example.org/lunch/campfire-foil-packs/</link>
+    <link>/lunch/campfire-foil-packs/</link>
     <description>Recent content in Campfire Foil Packs on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/campfire-foil-packs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/campfire-foil-packs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

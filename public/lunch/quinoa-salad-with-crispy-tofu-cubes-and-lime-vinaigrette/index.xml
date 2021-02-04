@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette on Delicate Recipe</title>
-    <link>http://example.org/lunch/quinoa-salad-with-crispy-tofu-cubes-and-lime-vinaigrette/</link>
+    <link>/lunch/quinoa-salad-with-crispy-tofu-cubes-and-lime-vinaigrette/</link>
     <description>Recent content in Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/quinoa-salad-with-crispy-tofu-cubes-and-lime-vinaigrette/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/quinoa-salad-with-crispy-tofu-cubes-and-lime-vinaigrette/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

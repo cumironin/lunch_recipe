@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whitney and Ashley&#39;s Flawless Roasted Vegetables on Delicate Recipe</title>
-    <link>http://example.org/lunch/whitney-and-ashleys-flawless-roasted-vegetables/</link>
+    <link>/lunch/whitney-and-ashleys-flawless-roasted-vegetables/</link>
     <description>Recent content in Whitney and Ashley&#39;s Flawless Roasted Vegetables on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/whitney-and-ashleys-flawless-roasted-vegetables/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/whitney-and-ashleys-flawless-roasted-vegetables/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lemony Quinoa with Chickpeas and Huckleberries on Delicate Recipe</title>
-    <link>http://example.org/lunch/lemony-quinoa-with-chickpeas-and-huckleberries/</link>
+    <link>/lunch/lemony-quinoa-with-chickpeas-and-huckleberries/</link>
     <description>Recent content in Lemony Quinoa with Chickpeas and Huckleberries on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/lemony-quinoa-with-chickpeas-and-huckleberries/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/lemony-quinoa-with-chickpeas-and-huckleberries/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

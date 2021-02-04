@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khitchari on Delicate Recipe</title>
-    <link>http://example.org/lunch/khitchari/</link>
+    <link>/lunch/khitchari/</link>
     <description>Recent content in Khitchari on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/khitchari/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/khitchari/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

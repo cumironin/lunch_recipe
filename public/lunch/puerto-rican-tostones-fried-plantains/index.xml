@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puerto Rican Tostones (Fried Plantains) on Delicate Recipe</title>
-    <link>http://example.org/lunch/puerto-rican-tostones-fried-plantains/</link>
+    <link>/lunch/puerto-rican-tostones-fried-plantains/</link>
     <description>Recent content in Puerto Rican Tostones (Fried Plantains) on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/puerto-rican-tostones-fried-plantains/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/puerto-rican-tostones-fried-plantains/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

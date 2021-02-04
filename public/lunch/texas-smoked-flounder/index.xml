@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Texas Smoked Flounder on Delicate Recipe</title>
-    <link>http://example.org/lunch/texas-smoked-flounder/</link>
+    <link>/lunch/texas-smoked-flounder/</link>
     <description>Recent content in Texas Smoked Flounder on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/texas-smoked-flounder/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/texas-smoked-flounder/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

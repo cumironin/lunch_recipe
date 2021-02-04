@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Triple Berry Sorbet on Delicate Recipe</title>
-    <link>http://example.org/lunch/triple-berry-sorbet/</link>
+    <link>/lunch/triple-berry-sorbet/</link>
     <description>Recent content in Triple Berry Sorbet on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/triple-berry-sorbet/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/triple-berry-sorbet/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

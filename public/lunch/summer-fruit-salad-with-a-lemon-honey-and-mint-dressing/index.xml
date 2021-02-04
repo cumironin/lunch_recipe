@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Summer Fruit Salad with a Lemon, Honey, and Mint Dressing on Delicate Recipe</title>
-    <link>http://example.org/lunch/summer-fruit-salad-with-a-lemon-honey-and-mint-dressing/</link>
+    <link>/lunch/summer-fruit-salad-with-a-lemon-honey-and-mint-dressing/</link>
     <description>Recent content in Summer Fruit Salad with a Lemon, Honey, and Mint Dressing on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/summer-fruit-salad-with-a-lemon-honey-and-mint-dressing/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/summer-fruit-salad-with-a-lemon-honey-and-mint-dressing/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

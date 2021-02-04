@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CJ&#39;s Epic Strawberry Banana Smoovie on Delicate Recipe</title>
-    <link>http://example.org/lunch/cjs-epic-strawberry-banana-smoovie/</link>
+    <link>/lunch/cjs-epic-strawberry-banana-smoovie/</link>
     <description>Recent content in CJ&#39;s Epic Strawberry Banana Smoovie on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/cjs-epic-strawberry-banana-smoovie/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/cjs-epic-strawberry-banana-smoovie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

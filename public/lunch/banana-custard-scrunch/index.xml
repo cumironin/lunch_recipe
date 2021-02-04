@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Banana Custard Scrunch on Delicate Recipe</title>
-    <link>http://example.org/lunch/banana-custard-scrunch/</link>
+    <link>/lunch/banana-custard-scrunch/</link>
     <description>Recent content in Banana Custard Scrunch on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/banana-custard-scrunch/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/banana-custard-scrunch/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papa&#39;s Purple Coleslaw Plus on Delicate Recipe</title>
-    <link>http://example.org/lunch/papas-purple-coleslaw-plus/</link>
+    <link>/lunch/papas-purple-coleslaw-plus/</link>
     <description>Recent content in Papa&#39;s Purple Coleslaw Plus on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/papas-purple-coleslaw-plus/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/papas-purple-coleslaw-plus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ed&#39;s Secret Pea and Mushroom Salad on Delicate Recipe</title>
-    <link>http://example.org/lunch/eds-secret-pea-and-mushroom-salad/</link>
+    <link>/lunch/eds-secret-pea-and-mushroom-salad/</link>
     <description>Recent content in Ed&#39;s Secret Pea and Mushroom Salad on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/eds-secret-pea-and-mushroom-salad/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/eds-secret-pea-and-mushroom-salad/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

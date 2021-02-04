@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raw Chia &#39;Porridge&#39; on Delicate Recipe</title>
-    <link>http://example.org/lunch/raw-chia-porridge/</link>
+    <link>/lunch/raw-chia-porridge/</link>
     <description>Recent content in Raw Chia &#39;Porridge&#39; on Delicate Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/lunch/raw-chia-porridge/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/lunch/raw-chia-porridge/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
