@@ -2,6 +2,8 @@
 
 This is HUGO site based on allrecipe scraper
 
+Based on HUGO & Tailwind CSS
+
 ## HOW TO RUN
 
 ```
